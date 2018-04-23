@@ -1,0 +1,10 @@
+Sovata, Sovata-Mures-Romania, 150, partie schi snowboarding tratamente, 26/11/2018, 19/11/2018
+Babele, Busteni-Prahova-Romania, 100, trasee_montane telecabina, 03/06/2018, 07/06/2018
+Transfagarasanul, Curtea de Arges-Arges-Romania, 200, trasee_montane telecabina, 01/10/2018, 03/10/2018
+Mangalia, Mangalia-Constanta-Romania, 150, plaja inot, 21/07/2018, 30/07/2018
+Constanta, Constanta-Constanta-Romania, 200, plaja inot spa, 21/07/2018, 30/07/2018
+Brasov, Brasov-Brasov-Romania, 100, trasee-montane schi plimbare, 21/07/2018, 30/07/2018
+Iasi, Iasi-Iasi-Romania, 80, plimbare muzee istorie arhitectura, 21/07/2018, 30/07/2018
+Costinesti, Costinesti-Constanta-Romania, 130, plaja inot, 01/08/2018, 10/08/2018
+Mamaia, Mamaia-Constanta-Romania, 200, inot plaja piscina, 01/08/2018, 10/08/2018
+Sighisoara, Sighisoara-Mures-Romania, 120, plimbare festival muzee, 10/10/2018, 19/10/2018
