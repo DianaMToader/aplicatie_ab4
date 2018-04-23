@@ -12,7 +12,7 @@ class Country {
 		this.name = name;
 	}
 	
-	String getCountry() {
+	String getName() {
 		return name;
 	}
 }

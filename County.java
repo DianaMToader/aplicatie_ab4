@@ -15,7 +15,7 @@ class County {
 		this.country = country;
 	}
 	
-	String getCounty(){
+	String getName(){
 		return this.name;
 	}
 	
