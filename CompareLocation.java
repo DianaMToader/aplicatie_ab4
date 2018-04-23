@@ -13,6 +13,6 @@ class CompareLocation implements Comparator<Location> {
 	@Override
 	public int compare(Location loc0, Location loc1) {
 		// TODO Auto-generated method stub
-		return loc1.getPrice() - loc1.getPrice();
+		return loc0.getPrice() - loc1.getPrice();
 	}
 }
